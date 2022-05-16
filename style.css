@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-family: 'Lora', serif;
+    background-color: azure;
+}
+
+#showsketch{
+    float: right;
+}
+#score{
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    margin-left: 5px;
+}
+#time{
+    float: right;
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    margin-right: 5px;
+}
